@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GoldAnalysisResults>
+  <BestPrices>
+    <Price>295.77</Price>
+    <Price>291.2</Price>
+    <Price>282.32</Price>
+    <Price>279.11</Price>
+    <Price>277.98</Price>
+    <Price>274.61</Price>
+    <Price>273.63</Price>
+    <Price>272.45</Price>
+    <Price>271.56</Price>
+    <Price>270.91</Price>
+    <Price>270.89</Price>
+    <Price>270.83</Price>
+    <Price>270.82</Price>
+  </BestPrices>
+  <WorstPrices>
+    <Price>257.59</Price>
+    <Price>258.4</Price>
+    <Price>258.87</Price>
+  </WorstPrices>
+</GoldAnalysisResults>
